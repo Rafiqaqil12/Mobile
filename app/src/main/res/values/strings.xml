@@ -1,4 +1,18 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="btnHello">Hello</string>
+    <string name="btnClickMe">Click Me</string>
+    <string-array name="state_arrays">
+        <item>Melaka</item>
+        <item>Selangor</item>
+        <item>Johor</item>
+        <item>Negeri Sembilan</item>
+        <item>Pahang</item>
+        <item>Terengganu</item>
+        <item>Kedah</item>
+        <item>Perlis</item>
+    </string-array>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Closed</string>
+
 </resources>
